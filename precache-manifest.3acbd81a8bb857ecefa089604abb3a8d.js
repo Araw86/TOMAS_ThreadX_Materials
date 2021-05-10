@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "790eba7e473403f6bdcffa2458645dae",
+    "revision": "51150eb796ec2db5755d1121bbc792d2",
     "url": "/Araw86.github.io/TOMAS_ThreadX_Materials/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Araw86.github.io/TOMAS_ThreadX_Materials/static/css/2.b92ffa1f.chunk.css"
   },
   {
-    "revision": "884bcd3992dc8aff9411",
+    "revision": "551810ab3bc1ab16fe9a",
     "url": "/Araw86.github.io/TOMAS_ThreadX_Materials/static/css/main.52cb64a4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Araw86.github.io/TOMAS_ThreadX_Materials/static/js/2.81b750bd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "884bcd3992dc8aff9411",
-    "url": "/Araw86.github.io/TOMAS_ThreadX_Materials/static/js/main.326b5592.chunk.js"
+    "revision": "551810ab3bc1ab16fe9a",
+    "url": "/Araw86.github.io/TOMAS_ThreadX_Materials/static/js/main.15f6f5c9.chunk.js"
   },
   {
     "revision": "af4fad3d90b69c227efb",

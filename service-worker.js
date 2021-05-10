@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Araw86.github.io/TOMAS_ThreadX_Materials/precache-manifest.df577bcd443a665435b193446f03b8d6.js"
+  "/Araw86.github.io/TOMAS_ThreadX_Materials/precache-manifest.3acbd81a8bb857ecefa089604abb3a8d.js"
 );
 
 self.addEventListener('message', (event) => {
