@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TOMAS_ThreadX_Materials/static/css/main.9f588f0a.chunk.css",
-    "main.js": "/TOMAS_ThreadX_Materials/static/js/main.92e206c4.chunk.js",
-    "main.js.map": "/TOMAS_ThreadX_Materials/static/js/main.92e206c4.chunk.js.map",
+    "main.js": "/TOMAS_ThreadX_Materials/static/js/main.9f9a3f48.chunk.js",
+    "main.js.map": "/TOMAS_ThreadX_Materials/static/js/main.9f9a3f48.chunk.js.map",
     "runtime-main.js": "/TOMAS_ThreadX_Materials/static/js/runtime-main.fc3266bd.js",
     "runtime-main.js.map": "/TOMAS_ThreadX_Materials/static/js/runtime-main.fc3266bd.js.map",
     "static/css/2.987814b2.chunk.css": "/TOMAS_ThreadX_Materials/static/css/2.987814b2.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.987814b2.chunk.css",
     "static/js/2.71795b27.chunk.js",
     "static/css/main.9f588f0a.chunk.css",
-    "static/js/main.92e206c4.chunk.js"
+    "static/js/main.9f9a3f48.chunk.js"
   ]
 }
