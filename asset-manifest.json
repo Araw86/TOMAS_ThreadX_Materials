@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "//araw86.github.io/TOMAS_ThreadX_Materials/static/css/main.9f588f0a.chunk.css",
-    "main.js": "//araw86.github.io/TOMAS_ThreadX_Materials/static/js/main.44dbfa8d.chunk.js",
-    "main.js.map": "//araw86.github.io/TOMAS_ThreadX_Materials/static/js/main.44dbfa8d.chunk.js.map",
-    "runtime-main.js": "//araw86.github.io/TOMAS_ThreadX_Materials/static/js/runtime-main.3e364baf.js",
-    "runtime-main.js.map": "//araw86.github.io/TOMAS_ThreadX_Materials/static/js/runtime-main.3e364baf.js.map",
-    "static/css/2.79d8d68a.chunk.css": "//araw86.github.io/TOMAS_ThreadX_Materials/static/css/2.79d8d68a.chunk.css",
-    "static/js/2.b4a7682b.chunk.js": "//araw86.github.io/TOMAS_ThreadX_Materials/static/js/2.b4a7682b.chunk.js",
-    "static/js/2.b4a7682b.chunk.js.map": "//araw86.github.io/TOMAS_ThreadX_Materials/static/js/2.b4a7682b.chunk.js.map",
-    "index.html": "//araw86.github.io/TOMAS_ThreadX_Materials/index.html",
-    "static/css/2.79d8d68a.chunk.css.map": "//araw86.github.io/TOMAS_ThreadX_Materials/static/css/2.79d8d68a.chunk.css.map",
-    "static/css/main.9f588f0a.chunk.css.map": "//araw86.github.io/TOMAS_ThreadX_Materials/static/css/main.9f588f0a.chunk.css.map",
-    "static/js/2.b4a7682b.chunk.js.LICENSE.txt": "//araw86.github.io/TOMAS_ThreadX_Materials/static/js/2.b4a7682b.chunk.js.LICENSE.txt",
-    "static/media/index.css": "//araw86.github.io/TOMAS_ThreadX_Materials/static/media/roboto-latin-900italic.cb5ad999.woff2"
+    "main.css": "/TOMAS_ThreadX_Materials/static/css/main.9f588f0a.chunk.css",
+    "main.js": "/TOMAS_ThreadX_Materials/static/js/main.a27c5da6.chunk.js",
+    "main.js.map": "/TOMAS_ThreadX_Materials/static/js/main.a27c5da6.chunk.js.map",
+    "runtime-main.js": "/TOMAS_ThreadX_Materials/static/js/runtime-main.fc3266bd.js",
+    "runtime-main.js.map": "/TOMAS_ThreadX_Materials/static/js/runtime-main.fc3266bd.js.map",
+    "static/css/2.987814b2.chunk.css": "/TOMAS_ThreadX_Materials/static/css/2.987814b2.chunk.css",
+    "static/js/2.b4a7682b.chunk.js": "/TOMAS_ThreadX_Materials/static/js/2.b4a7682b.chunk.js",
+    "static/js/2.b4a7682b.chunk.js.map": "/TOMAS_ThreadX_Materials/static/js/2.b4a7682b.chunk.js.map",
+    "index.html": "/TOMAS_ThreadX_Materials/index.html",
+    "static/css/2.987814b2.chunk.css.map": "/TOMAS_ThreadX_Materials/static/css/2.987814b2.chunk.css.map",
+    "static/css/main.9f588f0a.chunk.css.map": "/TOMAS_ThreadX_Materials/static/css/main.9f588f0a.chunk.css.map",
+    "static/js/2.b4a7682b.chunk.js.LICENSE.txt": "/TOMAS_ThreadX_Materials/static/js/2.b4a7682b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TOMAS_ThreadX_Materials/static/media/roboto-latin-900italic.cb5ad999.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e364baf.js",
-    "static/css/2.79d8d68a.chunk.css",
+    "static/js/runtime-main.fc3266bd.js",
+    "static/css/2.987814b2.chunk.css",
     "static/js/2.b4a7682b.chunk.js",
     "static/css/main.9f588f0a.chunk.css",
-    "static/js/main.44dbfa8d.chunk.js"
+    "static/js/main.a27c5da6.chunk.js"
   ]
 }
